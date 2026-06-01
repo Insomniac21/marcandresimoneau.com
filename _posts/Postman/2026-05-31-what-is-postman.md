@@ -34,7 +34,8 @@ Postman enables users to test, document, and analyze APIs through an intuitive i
 | Collection | A collection groups related requests together. It helps you organize your work and reuse requests as you test an API. |
 | Workspace | A workspace groups related collection together.  It helps you organize your projects and collaborate with colleagues as you build and test APIs. |
 | Authentification | Some APIs restrict access and require authentication. You must prove your identity before sending requests, which helps prevent misuse. |
-| Authorization |  |
+| Authorization | Some APIs restrict access and require authentification and authorization. You must prove your identity and the authorization to access the endpoints, which helps prevent misuse. |
+|  | |
 
 # 5. Core Features
 
@@ -44,7 +45,8 @@ Postman enables users to test, document, and analyze APIs through an intuitive i
 | Receive response | You can read and understand the response send back by the API. |
 | Reuse and organize your requests with collection | Create a map of the APIs endpoints. It facilitate further testing and analysis. |
 | Team collaboration within a workspace | Enable real time collaboration in the same workspace. |
-| Authentify to an API with multiple security scheme | Able to test an API that is protected with authentification. |
+| Authentify to an API with multiple security scheme | Able to test an API protected with authentification. |
+| Authorize ourselves to an API | Able to test an API/endpoints protected with authorization. |
 
 # 6. How It Works (Conceptual)
 Explain the logic or flow **without technical details**.
@@ -56,8 +58,10 @@ Explain the logic or flow **without technical details**.
 # 7. Typical Use Cases
 | Use Case | Description |
 |----------|-------------|
-| Use Case 1 | When and why it is used |
-| Use Case 2 | Who benefits from it |
+| Testing API endpoints during development| Send requests to compare the expected response against the actual response. |
+| Analyzing API behaviors when developping | Send requests and analyze the response to learn how the API behave. |
+| Testing API authentification and authorization | Try to authentify to your API. To make sure it's well protected. |
+| Analyzing an API behaviors when developping | Who benefits from it |
 
 # 8. Benefits
 - Benefit 1  
