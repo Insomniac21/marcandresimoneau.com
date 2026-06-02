@@ -1,0 +1,56 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram id="7K8-qp5mwpHYG-9UdQMV" name="Page-1">
+    <mxGraphModel dx="1360" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S5ajffRoyTEmwlYFhUQ8-3" value="Server" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="570" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S5ajffRoyTEmwlYFhUQ8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S5ajffRoyTEmwlYFhUQ8-4" target="S5ajffRoyTEmwlYFhUQ8-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S5ajffRoyTEmwlYFhUQ8-20" value="Click send" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S5ajffRoyTEmwlYFhUQ8-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.0571" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5ajffRoyTEmwlYFhUQ8-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S5ajffRoyTEmwlYFhUQ8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="284.5" as="sourcePoint" />
+            <mxPoint x="570" y="284.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5ajffRoyTEmwlYFhUQ8-10" value="Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S5ajffRoyTEmwlYFhUQ8-9" vertex="1" connectable="0">
+          <mxGeometry x="0.1778" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5ajffRoyTEmwlYFhUQ8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="314.5" as="sourcePoint" />
+            <mxPoint x="360" y="314.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="314.5" />
+              <mxPoint x="410" y="314.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5ajffRoyTEmwlYFhUQ8-17" value="Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S5ajffRoyTEmwlYFhUQ8-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.2111" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5ajffRoyTEmwlYFhUQ8-18" value="Postman" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="280" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S5ajffRoyTEmwlYFhUQ8-21" value="Sending a request to the server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="120" y="170" width="360" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
