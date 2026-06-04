@@ -1,45 +1,69 @@
-# How to send a request to an API with Postman ? 
-Learn how to send a simple request to an API with Postman.
+---
+title: "Send your first API request with Postman"
+description: "Task documentation to learn how to send your first API request with Postman."
+version: "1.0.0"
+last_updated: 2026-05-31
+---
+
+> ✏️ **Draft version**  
+> This guide will be improved over time.
+
+# Send your first API request with Postman.
+After this guide, you’ll be able to send a request to any API and read the response.
 
 ## Purpose
 With this knowledge you will be able to start testing your API.
 
 ## Prerequisites
 
-- Access or credentials (if any)
-- A URL or example API (if relevant)
+- Basic understanding of what a request and a response are
+- Postman installed
 
 ## Overview
-An API can be found at an URL, you will learn to send a request to this address and read the response.
+You’ll learn how to enter an API URL, send a request, and read the response returned by the server.
 
 ## Steps
 
-### 1. Step name
-Create a new collection if it's not already done.
+### 1. Create a new collection
+Click on the Create button. Collections help you organize your requests.
+
+![Click the Create button.](Images/ClickCreateCollection.png)
 
 
+### 2. Add a new request to the collection
+Click on the Add request button.
 
-### 2. Step name
-Instruction.  
-Optional screenshot or visual.
+![Click the Add request button.](Images/ClickAddRequestButton.png)
 
-### 3. Step name
-Instruction.
+### 3. Enter your API URL into the request URL bar
+Enter your API URL in the bar. This is the address where your request will be sent.
 
-(Continue as needed. Keep each step short and actionable.)
+![Write or copy/paste your URL into the bar](Images/CopyPasteURL.png)
+
+*You can use this free API URL : https://jsonplaceholder.typicode.com/posts/1*
+
+### 4. Click the send button
+Send your request by clicking the send button. Postman will send the request and show the response at the bottom.
+
+![Click the Send button](Images/ClickTheSendButton.png)
 
 ## Expected Result
-Describe what success looks like:
-- What the user should see
-- What the system should return
-- How they know it worked
+
+You should see a response with a 200 OK status.
+This means the server understood your request and returned data.
+![Click the Add request button.](Images/200OkResponse.png)
 
 ## Troubleshooting (optional)
-List 2–4 common issues and how to fix them.  
-Keep it calm and reassuring.
+Common issues :
+
+- Error adress not found : There may be a typo in the URL.
+![Error adress not found](Images/ErrorAdressNotFound.png)
+
+- 404 Not found : The URL or query string may be incorrect.
+- 500 Internal Server Error : The API encountered an error while processing your request.
+- 400 Bad request : The server is waiting for a request with specific data. 
 
 ## Next Steps (optional)
-Suggest what the user can do after completing this task:
-- A related task
-- A deeper concept
-- A more advanced workflow
+
+- Send a POST request with Postamn.
+- Authentify to an API with Postman.
