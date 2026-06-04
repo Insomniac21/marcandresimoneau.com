@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome
 ---
-
-# Welcome
 
 I am Marc-André, a traveler in this world. I write simply, for clarity.
 
