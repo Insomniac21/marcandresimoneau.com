@@ -28,6 +28,9 @@ social_links:
   github: https://github.com/Insomniac21
   linkedin: https://www.linkedin.com/in/marc-andr%C3%A9-simoneau-1b8669111/
 
+header_pages:
+  - index.md
+  - posts.md
 
 # Build settings
 theme: minima
