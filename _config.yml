@@ -23,8 +23,11 @@ email: marc-andre.simoneau@hotmail.com
 description: "A quiet corner of the web for learning, building, and writing at a human pace."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marcandresimoneau.com" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: marc-andre-simoneau
-github_username:  Insomniac21
+
+social_links:
+  github: https://github.com/Insomniac21
+  linkedin: https://www.linkedin.com/in/marc-andr%C3%A9-simoneau-1b8669111/
+
 
 # Build settings
 theme: minima
