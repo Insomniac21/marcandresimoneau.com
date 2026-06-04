@@ -1,6 +1,7 @@
 ---
 title: "Send your first API request with Postman"
 description: "Task documentation to learn how to send your first API request with Postman."
+layout: "post"
 version: "1.0.0"
 last_updated: 2026-05-31
 ---
@@ -9,9 +10,11 @@ last_updated: 2026-05-31
 > This guide will be improved over time.
 
 # Send your first API request with Postman.
+
 After this guide, you’ll be able to send a request to any API and read the response.
 
 ## Purpose
+
 With this knowledge you will be able to start testing your API.
 
 ## Prerequisites
@@ -20,22 +23,26 @@ With this knowledge you will be able to start testing your API.
 - Postman installed
 
 ## Overview
+
 You’ll learn how to enter an API URL, send a request, and read the response returned by the server.
 
 ## Steps
 
 ### 1. Create a new collection
+
 Click on the Create button. Collections help you organize your requests.
 
 ![Click the Create button.](/images/ClickCreateCollection.png)
 
 
 ### 2. Add a new request to the collection
+
 Click on the Add request button.
 
 ![Click the Add request button.](/images/ClickAddRequestButton.png)
 
 ### 3. Enter your API URL into the request URL bar
+
 Enter your API URL in the bar. This is the address where your request will be sent.
 
 ![Write or copy/paste your URL into the bar](/images/CopyPasteURL.png)
@@ -43,6 +50,7 @@ Enter your API URL in the bar. This is the address where your request will be se
 *You can use this free API URL : https://jsonplaceholder.typicode.com/posts/1*
 
 ### 4. Click the send button
+
 Send your request by clicking the send button. Postman will send the request and show the response at the bottom.
 
 ![Click the Send button](/images/ClickTheSendButton.png)
@@ -54,6 +62,7 @@ This means the server understood your request and returned data.
 ![Click the Add request button.](/images/200OkResponse.png)
 
 ## Troubleshooting (optional)
+
 Common issues :
 
 - Error adress not found : There may be a typo in the URL.

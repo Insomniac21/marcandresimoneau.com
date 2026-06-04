@@ -1,6 +1,7 @@
 ---
 title: "What is Postman"
 description: "Conceptual functional documentation explaining the purpose, context, and value of Postman."
+layout: "post"
 version: "1.0.0"
 last_updated: 2026-05-31
 ---
@@ -9,6 +10,7 @@ last_updated: 2026-05-31
 > This conceptual documentation is being refined over time.
 
 # 1. Overview
+
 Postman is a tool used to send requests to APIs and explore how services respond. It supports multiple protocols:
 
 - **HTTP/HTTPS** — Standard protocol for RESTful APIs and web services  
@@ -20,15 +22,18 @@ Postman is a tool used to send requests to APIs and explore how services respond
 - **MCP** — Used to interact with AI models, agents, and servers  
 
 # 2. Purpose
+
 Postman enables users to test, document, and analyze APIs through an intuitive interface.  
 Before tools like Postman existed, developers had to write custom code to test APIs, which made the process slower and more complex.
 
 # 3. Business Value
+
 - Test APIs quickly and intuitively  
 - Improve API quality  
 - Strengthen API security  
 
 # 4. Key Concepts
+
 | Concept | Description |
 |---------|-------------|
 | **API** | The part of an application that receives your request and sends back a response. |
@@ -43,7 +48,9 @@ Before tools like Postman existed, developers had to write custom code to test A
 | **Authentication** | Verifying your identity before accessing an API. |
 | **Authorization** | Verifying what you are allowed to access after you are authenticated. |
 
+
 # 5. Core Features
+
 | Feature | Description |
 |---------|-------------|
 | **Send requests** | Postman lets you send requests to an API. |
@@ -54,6 +61,7 @@ Before tools like Postman existed, developers had to write custom code to test A
 | **Authorization support** | Test endpoints that require specific permissions. |
 
 # 6. How It Works (Conceptual)
+
 A simplified view of how Postman interacts with an API:
 
 ```
@@ -62,6 +70,7 @@ A simplified view of how Postman interacts with an API:
 
 
 # 7. Typical Use Cases
+
 | Use Case | Description |
 |----------|-------------|
 | **Testing API endpoints during development** | Compare the expected response with the actual response. |
@@ -69,6 +78,7 @@ A simplified view of how Postman interacts with an API:
 | **Testing authentication and authorization** | Ensure your API is protected and accessible as expected. |
 
 # 8. Benefits
+
 | Benefit | Description |
 |---------|-------------|
 | **Easier API testing** | Frees cognitive energy to focus on improving the API. |
@@ -79,12 +89,15 @@ A simplified view of how Postman interacts with an API:
 | **Higher reusability** | Collections, environments, and auth setups are saved and reusable. |
 
 # 9. Limitations
+
 - Requires a minimum understanding of API concepts.
 
 # 10. Visual Example
+
 ![Concept Diagram](/images/BasicConceptDiagram.png)
 
 # 11. Glossary
+
 | Term | Definition |
 |------|------------|
 | **Cognitive** | Related to thinking, understanding, or mental effort. |
@@ -93,9 +106,11 @@ A simplified view of how Postman interacts with an API:
 | **Authorization** | Determining what resources a user can access after authentication. |
 
 # 12. Notes
+
 > **Note:** Add any important clarifications here.
 
 # 13. Revision History
+
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
 | 1.0.0   | 2026-05-31 | Marc-André | Initial version |
