@@ -1,12 +1,14 @@
 ---
-title: How to catch the Lava Eel fish in Stardew Valley ?
+title: Catch the lava eel in Stardew Valley
 date: 2026-05-30
 layout: post
 ---
-# How to catch the Lava Eel fish in Stardew Valley ?
 
-![[Pasted image 20260530145603.png]]
-Lava eel
+
+> ✏️ **Draft version**  
+> This documentation is being refined over time.
+
+# Catch the lava eel in Stardew Valley
 
 ### **Quick solution**
 
@@ -14,7 +16,7 @@ You can find the fish during all times and seasons in the :
 
 - 100 level of the mines
 - volcano Caldera of the ginger island.
-- 
+
 ### **Details**
 
 The base probability of catching a lava eel is low with 1.8%.

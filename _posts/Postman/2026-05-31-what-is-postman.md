@@ -82,7 +82,7 @@ A simplified view of how Postman interacts with an API:
 - Requires a minimum understanding of API concepts.
 
 # 10. Visual Example
-![Concept Diagram](Images/BasicConceptDiagram.png)
+![Concept Diagram](/images/BasicConceptDiagram.png)
 
 # 11. Glossary
 | Term | Definition |

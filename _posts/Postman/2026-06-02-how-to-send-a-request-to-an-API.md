@@ -27,37 +27,37 @@ You’ll learn how to enter an API URL, send a request, and read the response re
 ### 1. Create a new collection
 Click on the Create button. Collections help you organize your requests.
 
-![Click the Create button.](Images/ClickCreateCollection.png)
+![Click the Create button.](/images/ClickCreateCollection.png)
 
 
 ### 2. Add a new request to the collection
 Click on the Add request button.
 
-![Click the Add request button.](Images/ClickAddRequestButton.png)
+![Click the Add request button.](/images/ClickAddRequestButton.png)
 
 ### 3. Enter your API URL into the request URL bar
 Enter your API URL in the bar. This is the address where your request will be sent.
 
-![Write or copy/paste your URL into the bar](Images/CopyPasteURL.png)
+![Write or copy/paste your URL into the bar](/images/CopyPasteURL.png)
 
 *You can use this free API URL : https://jsonplaceholder.typicode.com/posts/1*
 
 ### 4. Click the send button
 Send your request by clicking the send button. Postman will send the request and show the response at the bottom.
 
-![Click the Send button](Images/ClickTheSendButton.png)
+![Click the Send button](/images/ClickTheSendButton.png)
 
 ## Expected Result
 
 You should see a response with a 200 OK status.
 This means the server understood your request and returned data.
-![Click the Add request button.](Images/200OkResponse.png)
+![Click the Add request button.](/images/200OkResponse.png)
 
 ## Troubleshooting (optional)
 Common issues :
 
 - Error adress not found : There may be a typo in the URL.
-![Error adress not found](Images/ErrorAdressNotFound.png)
+![Error adress not found](/images/ErrorAdressNotFound.png)
 
 - 404 Not found : The URL or query string may be incorrect.
 - 500 Internal Server Error : The API encountered an error while processing your request.
