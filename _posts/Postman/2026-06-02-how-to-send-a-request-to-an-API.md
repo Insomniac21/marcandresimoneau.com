@@ -61,7 +61,7 @@ You should see a response with a 200 OK status.
 This means the server understood your request and returned data.
 ![Click the Add request button.](/images/200OkResponse.png)
 
-## Troubleshooting (optional)
+## Troubleshooting
 
 Common issues :
 
@@ -72,7 +72,7 @@ Common issues :
 - 500 Internal Server Error : The API encountered an error while processing your request.
 - 400 Bad request : The server is waiting for a request with specific data. 
 
-## Next Steps (optional)
+## Next Steps
 
 - Send a POST request with Postamn.
 - Authentify to an API with Postman.
