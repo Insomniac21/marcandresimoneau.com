@@ -74,5 +74,5 @@ Common issues :
 
 ## Next Steps
 
-- Send a POST request with Postamn. (In writing)
+- Send a POST request with Postman. (In writing)
 - Authentify to an API with Postman. (In writing)
