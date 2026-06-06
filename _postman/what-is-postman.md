@@ -1,9 +1,8 @@
 ---
 title: "What is Postman"
-description: "Conceptual functional documentation explaining the purpose, context, and value of Postman."
-layout: "post"
-version: "1.0.0"
-last_updated: 2026-05-31
+nav_order: 1
+parent: "Postman"
+layout: post
 ---
 
 > ✏️ **Draft version**  

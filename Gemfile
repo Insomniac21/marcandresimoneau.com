@@ -37,3 +37,9 @@ gem "jekyll-remote-theme", "~> 0.5.0"
 gem "jekyll-theme-console", "~> 0.5.2"
 
 gem "jekyll-theme-hydeout", "~> 4.2"
+
+gem "just-the-docs"
+
+gem "jekyll-sitemap"
+
+

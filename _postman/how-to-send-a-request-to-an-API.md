@@ -1,9 +1,8 @@
 ---
 title: "Send your first API request with Postman"
-description: "Task documentation to learn how to send your first API request with Postman."
-layout: "post"
-version: "1.0.0"
-last_updated: 2026-05-31
+nav_order: 3
+parent: "Postman"
+layout: post
 ---
 
 > ✏️ **Draft version**  

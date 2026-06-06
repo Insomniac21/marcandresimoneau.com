@@ -1,9 +1,8 @@
 ---
 title: "Install Postman on windows"
-description: "Task documentation to learn how to install Postman on Windows."
-layout: "post"
-version: "1.0.0"
-last_updated: 2026-06-05
+nav_order: 2
+parent: "Postman"
+layout: post
 ---
 
 > ✏️ **Draft version**  
@@ -71,5 +70,5 @@ If you continue without an account, you should see:
 
 ## Next Steps
 
-- [What is Postman]({% link _posts/Postman/2026-05-31-what-is-postman.md %})
-- [How to send a request with Postman]({% link _posts/Postman/2026-06-02-how-to-send-a-request-to-an-API.md %})
+- [What is Postman]({% link _postman/what-is-postman.md %})
+- [How to send a request with Postman]({% link _postman/how-to-send-a-request-to-an-API.md %})

@@ -1,6 +1,6 @@
 ---
 title: Catch the lava eel in Stardew Valley
-date: 2026-05-30
+parent: Stardew Valley
 layout: post
 ---
 
