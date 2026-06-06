@@ -6,6 +6,8 @@ layout: home
 title: Welcome
 ---
 
+# Welcome
+
 I am Marc-André, a traveler in this world. I write simply, for clarity.
 
 I have held many roles in my 12‑year IT career: Developer, QA, Analyst, System Administrator, Technical Writer, Tech Lead, and Solution Architect.
