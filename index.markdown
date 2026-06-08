@@ -3,10 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcome
 ---
 
-# Welcome
+<script src="https://cdn.counter.dev/script.js" data-id="8e78b133-06a6-4d96-b5b4-13e6830091cf" data-utcoffset="-4"></script>
+
+# **Welcome**
+
+---
 
 I am Marc-André, a traveler in this world. I write simply, for clarity.
 
@@ -17,6 +20,9 @@ Only one role brought me fulfillment and calm: helping people understand and suc
 Technical writing is exactly that.
 
 ## My approach to technical writing
+
+---
+
 I believe documentation exists to reduce cognitive load, not increase it.
 
 My goal is always to help the reader understand a concept or complete a task with clarity and confidence.
